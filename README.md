@@ -1,5 +1,5 @@
 <div align="center">
-<img width="128" height="64" src="http://github.meigo.live/images/meigo.png" align="center" style="width: 100%" />
+<img width="160" height="160" src="http://github.meigo.live/images/meigo.png" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">Meigo Corporation has been in operation since 2017 🚀</div>  
