@@ -5,7 +5,7 @@
 ### <div align="center">Meigo Corporation has been in operation since 2017 🚀</div>  
   
 
-- 🔭 We are currently working on such projects as [MeigoStore](https://github.com/meigoc/MCget), [MeigoPay](https://meigopay.online), [CryptoPay](https://paycrypto.online) and [McGet](https://github.com/meigoc/MCget). [Flame Corporation](https://discord.gg/MsE6zgc3jd)  
+- 🔭 We are currently working on such projects as [MeigoStore](https://github.com/meigoc/MCget), [MeigoPay](https://meigopay.online), [CryptoPay](https://paycrypto.online) and [McGet](https://github.com/meigoc/MCget).
   
 
 - 🌱 Our developers know programming languages such as Java, C#, JPHP, Python, PHP, C++, Assembler, HTML, CSS, JavaScript, React, TypeScript.
