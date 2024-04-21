@@ -1,34 +1,34 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=meigoc&style=for-the-badge&color=red" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=meigoc&style=for-the-badge&color=red" align="center" /><br>
 <img width="160" height="160" src="http://github.meigo.live/images/meigo.png" align="center" alt="Meigo Icon" />
 </div>
 
-### <div align="center">Meigo Corporation has been in operation since 2017 🚀</div>  
+### <div align="center">Meigo™ Corporation has been in operation since 2017 🚀 (7 years)</div>  
   
 
-- 🔭 We are currently working on such projects as [MeigoStore](https://github.com/meigoc/MCget), [MeigoPay](https://meigopay.online), [CryptoPay](https://paycrypto.online) and [McGet](https://github.com/meigoc/MCget).
+- 🔭 We are currently working on such projects as [jppm-windows-ext](https://github.com/meigoc/jppm-windows-ext), [OpenUI](https://github.com/OpenUI-shell), [MyOpenGPT](https://myopengpt.com) and [Aerox](https://aerox.world).
   
 
 - 🌱 Our developers know programming languages such as Java, C#, JPHP, Python, PHP, C++, Assembler, HTML, CSS, JavaScript, React, TypeScript.
   
 
-- ⚡ Meigo is a for-profit company and is officially located in 15+ countries 
+- ⚡ Meigo™ is a for-profit company and is officially located in 15+ countries 
   
 
 <br/>  
 
 ### Our projects
-`🛬` List of all Meigo Corporation projects.
+`🛬` List of all Meigo™ Corporation projects.
 
 ```
 ✔️ - Project open and supported.
 ❌ - Project closed \ Not Supported.
 ```
 
-### Meigo®️ PROJECTS
+### Meigo™ PROJECTS
 
 
-✨🇺🇸 All Meigo®️'s projects.
+✨🇺🇸 All Meigo™ projects.
 <!-- YOUTUBE:END -->
 
 ### Join us, our corporation
