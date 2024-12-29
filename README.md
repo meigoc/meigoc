@@ -3,7 +3,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meigoc&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meigoc&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
 
 <a href="https://github.com/meigoc">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=meigoc&theme=github_dark" alt="repo" />
