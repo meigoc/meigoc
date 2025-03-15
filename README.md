@@ -22,4 +22,5 @@
 
 <br/>  
 
+<a href="https://myopengpt.com"><img src="https://media.discordapp.net/attachments/923570652059947078/1193260391430619176/6.png?ex=67d5c757&is=67d475d7&hm=b943ae1dd739ca7bc291b2db9c536ecdc8b9c25a92a73b8594271759b891a2c7&=&format=webp&quality=lossless&width=1170&height=150" alt="ad"/></a>
 
